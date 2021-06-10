@@ -23,7 +23,6 @@ function validation(name,course,author){
         }, 2000);
     }
     return isError;
-
 }
 // event listener on form
 document.querySelector("#customer-form").addEventListener("submit", (e) => {
